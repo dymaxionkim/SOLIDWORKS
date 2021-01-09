@@ -1,0 +1,47 @@
+[Version]
+SW990001
+
+[Layers]
+0 = 7, 3
+외형선 = -2, 3
+치수선 = 2, 6
+중심선 = 1, 7
+은선 = -2, 2
+해칭선 = 0, 8
+
+[Entities]
+형상 [0] = 0, BYLAYER, 외형선
+치수 [1] = 0, BYLAYER, 치수선
+중심선 [14] = 0, BYLAYER, 중심선
+중심 표시 [4] = 0, BYLAYER, 중심선
+은선 [15] = 0, BYLAYER, 은선
+사선해칭 [17] = 0, BYLAYER, 해칭선
+노트 [2] = 0, BYLAYER, 치수선
+기하 공차 [3] = 0, BYLAYER, 치수선
+기호 [7] = 0, BYLAYER, 치수선
+데이텀 태그 [8] = 0, BYLAYER, 치수선
+데이텀 타겟 [9] = 0, BYLAYER, 치수선
+용접 기호 [10] = 0, BYLAYER, 치수선
+다중 끌개 지시선 [23] = 0, BYLAYER, 치수선
+다울핀 기호 [24] = 0, BYLAYER, 치수선
+사용자 - 중앙 [22] = 0, BYLAYER, 중심선
+사용자 - 가상선 [21] = 0, BYLAYER, 중심선
+절단선 [5] = 0, BYLAYER, 외형선
+상세도 원 [6] = 0, BYLAYER, 해칭선
+나사산 표시 [11] = 0, BYLAYER, 치수선
+BOM [12] = 0, BYLAYER, 치수선
+스케치 선 [16] = 0, BYLAYER, 외형선
+도면화 경계 [18] = 0, BYLAYER, 외형선
+접선 [19] = 0, BYLAYER, 해칭선
+사용자 - 점선 [20] = 0, BYLAYER, 은선
+파단선 [25] = 0, BYLAYER, 외형선
+블럭 인스턴스 [26] = 0, BYLAYER, 외형선
+테이블 주석 [28] = 0, BYLAYER, 치수선
+구멍 테이블 원점 [29] = 0, BYLAYER, 치수선
+용접 비드 [30] = 0, BYLAYER, 치수선
+경계 상자 [31] = 0, BYLAYER, 치수선
+수정 기호 [32] = 0, BYLAYER, 치수선
+
+[Colors]
+0 -> 0
+

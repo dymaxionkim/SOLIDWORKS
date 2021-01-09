@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CPTemplate>
+  <AppVersion>27</AppVersion>
+  <CPSheet>
+    <GroupBox Label="그룹상자" PropName="그룹상자2" DefaultState="Expanded">
+      <Control Label="PartName" PropName="PartName" ApplyTo="Global" Type="TextBox" ReadOnly="False" DefaultValue="SW-File Name" Mode="SWProperty" />
+      <Control Label="PartNumber" PropName="PartNumber" ApplyTo="Config" Type="TextBox" ReadOnly="False" DefaultValue="PartNumber" Mode="Text" />
+      <Control Label="Material" PropName="Material" ApplyTo="Config" Type="TextBox" ReadOnly="False" DefaultValue="-" Mode="Text" />
+      <Control Label="Treatment" PropName="Treatment" ApplyTo="Config" Type="TextBox" ReadOnly="False" DefaultValue="Treatment" Mode="Text" />
+      <Control Label="Description" PropName="Description" ApplyTo="Config" Type="TextBox" ReadOnly="False" DefaultValue="Description" Mode="Text" />
+      <Control Label="Weight" PropName="Weight" ApplyTo="Global" Type="TextBox" ReadOnly="False" DefaultValue="Weight" Mode="Text" />
+      <Control Label="Date" PropName="Date" ApplyTo="Global" Type="TextBox" ReadOnly="False" DefaultValue="SW-Created Date" Mode="SWProperty" />
+    </GroupBox>
+  </CPSheet>
+</CPTemplate>
